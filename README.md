@@ -1,6 +1,6 @@
-## Tugas_PBO_Pert6
+# Tugas_PBO_Pert6
 # Hasil Run Matrix
-## Penjumlahan Matrix
+# Penjumlahan Matrix
 ![image](https://github.com/DzakiYushiibanaa/Tugas_PBO_Pert6/assets/145998330/11fbfb08-5b5a-49bc-9546-3318d5b688d9)
 # Pengurangan Matrix
 ![image](https://github.com/DzakiYushiibanaa/Tugas_PBO_Pert6/assets/145998330/48fcf81b-c321-414c-83c7-cf2dd85a0a91)
@@ -13,11 +13,11 @@
 
 
 # Pecahan
-# Penjumlahan pada Pecahan
+## Penjumlahan pada Pecahan
 ![image](https://github.com/DzakiYushiibanaa/Tugas_PBO_Pert6/assets/145998330/d0e35bfb-aa7c-41c9-b251-73e81d5534da)
-# Pengurangan 
+## Pengurangan 
 ![image](https://github.com/DzakiYushiibanaa/Tugas_PBO_Pert6/assets/145998330/e435853f-5257-4f89-8482-1f22d3eb5bc2)
-# Perkalian
+## Perkalian
 ![image](https://github.com/DzakiYushiibanaa/Tugas_PBO_Pert6/assets/145998330/6243e8e8-647e-4ee5-affa-4cfa3b168145)
-# Pembagian
+## Pembagian
 ![image](https://github.com/DzakiYushiibanaa/Tugas_PBO_Pert6/assets/145998330/a9a9f375-bf74-4b1e-a451-204cc1869d37)
